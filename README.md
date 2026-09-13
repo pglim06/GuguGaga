@@ -66,9 +66,11 @@ Prioritization grid categorizing features into Must-Have, Should-Have, Nice-to-H
 
 ## 2.3 Mentor Consultation
 
+
 | Date | Mentor | Feedback Received | What Was Changed |
 | :--- | :--- | :--- | :--- |
-| 13/9 | Mentor | [Feedback Received] | [What Was Changed] |
+| 13/9 | Iris Yan  | • Advised against building a live booking engine with direct checkout, as it introduces unnecessary API complexity and engineering overhead; suggested keeping it strictly as a confirmation and voucher repository.<br>• Pointed out that our initial feature list felt too similar to existing market apps, lacking a distinctive hook to grab the judges' attention.<br>• Noted that our presentation video was far too text-heavy (~80% text on screen) and needed to show interactive product walkthroughs instead.<br>• Commended the overall completeness and visual polish of the prototype. | • Scoped down the Booking Hub to a centralized digital voucher and confirmation-code vault (with live price change indicators) rather than an OTA booking platform, keeping technical scope feasible.<br>• Elevated the "Split & Reconnect" Compromise Engine to our primary flagship hero feature, establishing immediate differentiation from traditional planners.<br>• Overhauled our pitch video and presentation slides by cutting text down to ~20% and replacing dense paragraphs with UI screen interactions, branching flowcharts, and live feature walkthroughs. |
+| 13/9 | Looi Wei En | • Cautioned that having too many scattered features made the product feel unfocused; urged us to anchor the pitch around one primary core idea.<br>• Validated that our solution strongly aligns with the core problem statement of companion friction in group travel.<br>• Praised our UI design as clean and organized, but suggested adding an onboarding flow to guide first-time travelers through setting up squad preferences.<br>• Specifically highlighted the "Split & Reconnect" feature as exceptionally unique, standout, and compelling. | • Streamlined our entire value proposition to center around the "Group Pacing Dilemma," positioning Split & Reconnect as the hero solution and reframing all other modules (budget, weather Plan B, voting) as supporting pillars.<br>• Designed an onboarding squad-setup experience where members define their mobility constraints, pacing preferences, and dietary needs before generating their branching itinerary. |
 
 ---
 
